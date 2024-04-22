@@ -13,9 +13,9 @@
     ```
 3. start the project by entering the following command.
     ```bash
-    flutter run [execute file path here] -d chrome
+    flutter run lib/app/_/_/interaction/view.blueprint/page/basic_keyboard/_/view.dart -d chrome
     ```
 
 ## Screenshots
-![]()
+![](https://github.com/juneview-songdo/basic_keyboard/assets/21379657/f3e2bc9a-b0d9-4e4c-b85f-a18ff0809c39)
 
